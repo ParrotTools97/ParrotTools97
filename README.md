@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Brito</h1>
 <h3 align="center">Studying at 42 school</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parrottools97&label=Profile%20views&color=0e75b6&style=flat" alt="parrottools97" /> </p>
-
 <div align="center">
   <a href="https://github.com/ParrotTools97">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParrotTools97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
