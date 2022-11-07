@@ -3,9 +3,9 @@
 
 <div align="center">
   <a href="https://github.com/ParrotTools97">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParrotTools97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parrottools97&theme=dark" alt="parrottools97" /></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParrotTools97&layout=compact&langs_count=7&theme=dark"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ParrotTools97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=parrottools97&theme=dark" alt="parrottools97"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParrotTools97&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
