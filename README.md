@@ -5,7 +5,7 @@
   <a href="https://github.com/ParrotTools97">  
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ParrotTools97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parrottools97&theme=dark" alt="parrottools97"/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParrotTools97&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=ParrotTools97" height="150" alt="languages graph"  />
 </div>
 
 <h3 align="left">Connect with me:</h3>
