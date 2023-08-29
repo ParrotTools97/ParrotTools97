@@ -1,7 +1,7 @@
 # Hello, my name is Matheus Brito 👋!
 
 
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/matheus-brito-167839224)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/matheus-brito-167839224/)
 
 ## GitHub Stats
 
