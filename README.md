@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Sans+Pro&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=black&lines=Hi+There!+👋;+I'm+Matheus+Brito!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Sans+Pro&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=orange&lines=Hi+There!+👋;+I'm+Matheus+Brito!;" />
   </h1>
 </div>
 
